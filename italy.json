@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "universityName": "Italy Government",
+    "scholarshipDeadline": "9-Jun-24",
+    "scholarshipCountry": "Location not available",
+    "scholarshipLevel": "Italy Government Scholarship",
+    "details": "Independent providerGrant900 EURDeadline09 Jun 2024Italy Government ScholarshipMerit-based Read more about eligibility Italy GovernmentLocation not available"
+  },
+  {
+    "id": 2,
+    "universityName": "LUISS University",
+    "scholarshipDeadline": "31-May-24",
+    "scholarshipCountry": "Roma, Italy",
+    "scholarshipLevel": "GMAT/GRE Scholarship",
+    "details": "Provided by universityGrant6500 EURDeadline31 May 2024GMAT/GRE ScholarshipMerit-based Read more about eligibility LUISS UniversityRoma, Italy"
+  },
+  {
+    "id": 3,
+    "universityName": "LUISS University",
+    "scholarshipDeadline": "Not specified",
+    "scholarshipCountry": "Roma, Italy",
+    "scholarshipLevel": "Scholarships for the RoME Masters in Economics",
+    "details": "Provided by universityGrant10000 EURDeadlineNot specifiedScholarships for the RoME Masters in EconomicsMerit-based Read more about eligibility LUISS UniversityRoma, Italy"
+  },
+  {
+    "id": 4,
+    "universityName": "Istituto Marangoni",
+    "scholarshipDeadline": "17-Jul-24",
+    "scholarshipCountry": "Milano, Italy",
+    "scholarshipLevel": "Make Your Own History Scholarship",
+    "details": "Provided by universityGrantVarious benefitsDeadline17 Jul 2024Make Your Own History Scholarship Read more about eligibility Istituto MarangoniMilano, Italy"
+  },
+  {
+    "id": 5,
+    "universityName": "Università Commerciale Luigi Bocconi",
+    "scholarshipDeadline": "Not specified",
+    "scholarshipCountry": "Milano, Italy",
+    "scholarshipLevel": "Women Award",
+    "details": "Provided by universityGrantVarious benefitsDeadlineNot specifiedWomen AwardMerit-based Read more about eligibility Università Commerciale Luigi BocconiMilano, Italy"
+  },
+  {
+    "id": 6,
+    "universityName": "LUISS University",
+    "scholarshipDeadline": "31-May-24",
+    "scholarshipCountry": "Roma, Italy",
+    "scholarshipLevel": "SAT/ACT Scholarship",
+    "details": "Provided by universityGrantVarious benefitsDeadline31 May 2024SAT/ACT ScholarshipMerit-based Read more about eligibility LUISS UniversityRoma, Italy"
+  },
+  {
+    "id": 7,
+    "universityName": "LUISS University",
+    "scholarshipDeadline": "31-May-24",
+    "scholarshipCountry": "Roma, Italy",
+    "scholarshipLevel": "International Students Scholarship",
+    "details": "Provided by universityGrantVarious benefitsDeadline31 May 2024International Students ScholarshipMerit-based Read more about eligibility LUISS UniversityRoma, Italy"
+  },
+  {
+    "id": 8,
+    "universityName": "Università Commerciale Luigi Bocconi",
+    "scholarshipDeadline": "Not specified",
+    "scholarshipCountry": "Milano, Italy",
+    "scholarshipLevel": "Bocconi International Award Graduate",
+    "details": "Provided by universityGrantVarious benefitsDeadlineNot specifiedBocconi International Award GraduateMerit-based Read more about eligibility Università Commerciale Luigi BocconiMilano, Italy"
+  },
+  {
+    "id": 9,
+    "universityName": "Istituto Marangoni",
+    "scholarshipDeadline": "24-Jul-24",
+    "scholarshipCountry": "Milano, Italy",
+    "scholarshipLevel": "Wearable Robotics: The next generation of human adjuncts Scholarships",
+    "details": "Provided by universityGrantVarious benefitsDeadline24 Jul 2024Wearable Robotics: The next generation of human adjuncts Scholarships Read more about eligibility Istituto MarangoniMilano, Italy"
+  },
+  {
+    "id": 10,
+    "universityName": "Istituto Marangoni",
+    "scholarshipDeadline": "24-Jul-24",
+    "scholarshipCountry": "Milano, Italy",
+    "scholarshipLevel": "The World is Your Canvas Scholarships",
+    "details": "Provided by universityGrantVarious benefitsDeadline24 Jul 2024The World is Your Canvas Scholarships Read more about eligibility Istituto MarangoniMilano, Italy"
+  },
+  {
+    "id": 11,
+    "universityName": "BeArt-Presets",
+    "scholarshipDeadline": "1-Apr-24",
+    "scholarshipCountry": "Location not available",
+    "scholarshipLevel": "BeArt-Presets Academic Scholarship Program",
+    "details": "Independent providerGrant5000 USDDeadline01 Apr 2024BeArt-Presets Academic Scholarship Program Read more about eligibility BeArt-PresetsLocation not available"
+  },
+  {
+    "id": 12,
+    "universityName": "educations.com",
+    "scholarshipDeadline": "14-May-24",
+    "scholarshipCountry": "Location not available",
+    "scholarshipLevel": "Study a Masters in Europe Scholarships",
+    "details": "Independent providerGrant5000 EURDeadline14 May 2024Study a Masters in Europe ScholarshipsMerit-based Read more about eligibility educations.comLocation not available"
+  },
+  {
+    "id": 13,
+    "universityName": "ACES Education Fund",
+    "scholarshipDeadline": "15-Nov-24",
+    "scholarshipCountry": "Location not available",
+    "scholarshipLevel": "ACES Scholarships",
+    "details": "Independent providerGrant3500 USDDeadline15 Nov 2024ACES Scholarships Read more about eligibility ACES Education FundLocation not available"
+  },
+  {
+    "id": 14,
+    "universityName": "Sapienza University of Rome",
+    "scholarshipDeadline": "13-Sep-24",
+    "scholarshipCountry": "Roma, Italy",
+    "scholarshipLevel": "International Post-degree Scholarship",
+    "details": "Provided by universityGrant1290 EURDeadline13 Sep 2024International Post-degree Scholarship Read more about eligibility Sapienza University of RomeRoma, Italy"
+  },
+  {
+    "id": 15,
+    "universityName": "The Smooth Movers",
+    "scholarshipDeadline": "30-Nov-24",
+    "scholarshipCountry": "Location not available",
+    "scholarshipLevel": "The Smooth Movers Scholarship",
+    "details": "Independent providerGrant1000 USDDeadline30 Nov 2024The Smooth Movers Scholarship Read more about eligibility The Smooth MoversLocation not available"
+  },
+  {
+    "id": 16,
+    "universityName": "The Rotary Foundation",
+    "scholarshipDeadline": "Anytime",
+    "scholarshipCountry": "Canton, United States",
+    "scholarshipLevel": "Rotary Foundation Global Scholarship Grants for Development",
+    "details": "Provided by universityGrantVarious benefitsDeadlineAnytimeRotary Foundation Global Scholarship Grants for DevelopmentMerit-based Read more about eligibility The Rotary FoundationCanton, United States"
+  },
+  {
+    "id": 17,
+    "universityName": "University of Padua",
+    "scholarshipDeadline": "2-Oct-24",
+    "scholarshipCountry": "Padova, Italy",
+    "scholarshipLevel": "Regione Veneto Scholarships",
+    "details": "Provided by universityGrantVarious benefitsDeadline02 Oct 2024Regione Veneto Scholarships Read more about eligibility University of PaduaPadova, Italy"
+  },
+  {
+    "id": 18,
+    "universityName": "Politecnico di Milano",
+    "scholarshipDeadline": "Not specified",
+    "scholarshipCountry": "Milano, Italy",
+    "scholarshipLevel": "Merit-based Scholarships - Platinum Scholarships",
+    "details": "Provided by universityGrant10000 EURDeadlineNot specifiedMerit-based Scholarships - Platinum ScholarshipsMerit-based Read more about eligibility Politecnico di MilanoMilano, Italy"
+  },
+  {
+    "id": 19,
+    "universityName": "Politecnico di Milano",
+    "scholarshipDeadline": "Not specified",
+    "scholarshipCountry": "Milano, Italy",
+    "scholarshipLevel": "Merit-based Scholarships - Gold Scholarships",
+    "details": "Provided by universityGrant5000 EURDeadlineNot specifiedMerit-based Scholarships - Gold ScholarshipsMerit-based Read more about eligibility Politecnico di MilanoMilano, Italy"
+  },
+  {
+    "id": 20,
+    "universityName": "Tor Vergata University of Rome",
+    "scholarshipDeadline": "Not specified",
+    "scholarshipCountry": "Roma, Italy",
+    "scholarshipLevel": "DiSCo Lazio (LazioDiSCo)",
+    "details": "Provided by universityGrantVarious benefitsDeadlineNot specifiedDiSCo Lazio (LazioDiSCo)Need-based Read more about eligibility Tor Vergata University of RomeRoma, Italy"
+  }
+]
