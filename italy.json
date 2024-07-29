@@ -186,7 +186,7 @@
         "scholarshipCountry": "Bologna, Italy",
         "scholarshipLevel": "Unibo Action 1&2",
         "details": "Provided by universityGrant11000 EURDeadline30 Apr 2024Unibo Action 1&2Merit-based Read more about eligibility Università di BolognaBologna, Italy",
-        "universityUrl": "https://www.unibo.it"
+        "universityURL": "https://www.unibo.it"
     },
     {
         "id": 22,
@@ -195,7 +195,7 @@
         "scholarshipCountry": "Turin, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrant9000 EURDeadline15 Sep 2024International ScholarshipsMerit-based Read more about eligibility Università di TorinoTurin, Italy",
-        "universityUrl": "https://www.unito.it"
+        "universityURL": "https://www.unito.it"
     },
     {
         "id": 23,
@@ -204,7 +204,7 @@
         "scholarshipCountry": "Milan, Italy",
         "scholarshipLevel": "Excellence Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadlineNot specifiedExcellence ScholarshipsMerit-based Read more about eligibility Università degli Studi di MilanoMilan, Italy",
-        "universityUrl": "https://www.unimi.it"
+        "universityURL": "https://www.unimi.it"
     },
     {
         "id": 24,
@@ -213,7 +213,7 @@
         "scholarshipCountry": "Pisa, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant15000 EURDeadline31 Jul 2024PhD ScholarshipsMerit-based Read more about eligibility Università di PisaPisa, Italy",
-        "universityUrl": "https://www.unipi.it"
+        "universityURL": "https://www.unipi.it"
     },
     {
         "id": 25,
@@ -222,7 +222,7 @@
         "scholarshipCountry": "Venice, Italy",
         "scholarshipLevel": "Study Abroad Scholarships",
         "details": "Provided by universityGrant7000 EURDeadline01 Jun 2024Study Abroad ScholarshipsMerit-based Read more about eligibility Università Ca' Foscari VeneziaVenice, Italy",
-        "universityUrl": "https://www.unive.it"
+        "universityURL": "https://www.unive.it"
     },
     {
         "id": 26,
@@ -231,7 +231,7 @@
         "scholarshipCountry": "Padova, Italy",
         "scholarshipLevel": "Global Excellence Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Aug 2024Global Excellence ScholarshipsMerit-based Read more about eligibility Università degli Studi di PadovaPadova, Italy",
-        "universityUrl": "https://www.unipd.it"
+        "universityURL": "https://www.unipd.it"
     },
     {
         "id": 27,
@@ -240,7 +240,7 @@
         "scholarshipCountry": "Naples, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant10000 EURDeadlineNot specifiedMerit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Napoli Federico IINaples, Italy",
-        "universityUrl": "https://www.unina.it"
+        "universityURL": "https://www.unina.it"
     },
     {
         "id": 28,
@@ -249,7 +249,7 @@
         "scholarshipCountry": "Florence, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di FirenzeFlorence, Italy",
-        "universityUrl": "https://www.unifi.it"
+        "universityURL": "https://www.unifi.it"
     },
     {
         "id": 29,
@@ -258,7 +258,7 @@
         "scholarshipCountry": "Turin, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadlineNot specifiedMasters ScholarshipsMerit-based Read more about eligibility Politecnico di TorinoTurin, Italy",
-        "universityUrl": "https://www.polito.it"
+        "universityURL": "https://www.polito.it"
     },
     {
         "id": 30,
@@ -267,7 +267,7 @@
         "scholarshipCountry": "Siena, Italy",
         "scholarshipLevel": "Study Grants for International Students",
         "details": "Provided by universityGrant6000 EURDeadline01 Sep 2024Study Grants for International StudentsMerit-based Read more about eligibility Università degli Studi di SienaSiena, Italy",
-        "universityUrl": "https://www.unisi.it"
+        "universityURL": "https://www.unisi.it"
     },
     {
         "id": 31,
@@ -276,7 +276,7 @@
         "scholarshipCountry": "Trento, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadline15 Aug 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di TrentoTrento, Italy",
-        "universityUrl": "https://www.unitn.it"
+        "universityURL": "https://www.unitn.it"
     },
     {
         "id": 32,
@@ -285,7 +285,7 @@
         "scholarshipCountry": "Genoa, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline31 Jul 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di GenovaGenoa, Italy",
-        "universityUrl": "https://www.unige.it"
+        "universityURL": "https://www.unige.it"
     },
     {
         "id": 33,
@@ -294,7 +294,7 @@
         "scholarshipCountry": "Bari, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant15000 EURDeadline30 Jun 2024International PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di Bari Aldo MoroBari, Italy",
-        "universityUrl": "https://www.uniba.it"
+        "universityURL": "https://www.uniba.it"
     },
     {
         "id": 34,
@@ -303,7 +303,7 @@
         "scholarshipCountry": "Catania, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Aug 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di CataniaCatania, Italy",
-        "universityUrl": "https://www.unict.it"
+        "universityURL": "https://www.unict.it"
     },
     {
         "id": 35,
@@ -312,7 +312,7 @@
         "scholarshipCountry": "Pavia, Italy",
         "scholarshipLevel": "Study Grants for International Students",
         "details": "Provided by universityGrant8000 EURDeadline30 Sep 2024Study Grants for International StudentsMerit-based Read more about eligibility Università degli Studi di PaviaPavia, Italy",
-        "universityUrl": "https://www.unipv.it"
+        "universityURL": "https://www.unipv.it"
     },
     {
         "id": 36,
@@ -321,7 +321,7 @@
         "scholarshipCountry": "Palermo, Italy",
         "scholarshipLevel": "Merit Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline31 Aug 2024Merit ScholarshipsMerit-based Read more about eligibility Università degli Studi di PalermoPalermo, Italy",
-        "universityUrl": "https://www.unipa.it"
+        "universityURL": "https://www.unipa.it"
     },
     {
         "id": 37,
@@ -330,7 +330,7 @@
         "scholarshipCountry": "Modena, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant13000 EURDeadline01 Jul 2024International PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di Modena e Reggio EmiliaModena, Italy",
-        "universityUrl": "https://www.unimore.it"
+        "universityURL": "https://www.unimore.it"
     },
     {
         "id": 38,
@@ -339,7 +339,7 @@
         "scholarshipCountry": "Cosenza, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Sep 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi della CalabriaCosenza, Italy",
-        "universityUrl": "https://www.unical.it"
+        "universityURL": "https://www.unical.it"
     },
     {
         "id": 39,
@@ -348,7 +348,7 @@
         "scholarshipCountry": "Perugia, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline31 May 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di PerugiaPerugia, Italy",
-        "universityUrl": "https://www.unipg.it"
+        "universityURL": "https://www.unipg.it"
     },
     {
         "id": 40,
@@ -357,7 +357,7 @@
         "scholarshipCountry": "Salerno, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadline30 Jun 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di SalernoSalerno, Italy",
-        "universityUrl": "https://www.unisa.it"
+        "universityURL": "https://www.unisa.it"
     },
     {
         "id": 41,
@@ -366,7 +366,7 @@
         "scholarshipCountry": "Trieste, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di TriesteTrieste, Italy",
-        "universityUrl": "https://www.units.it"
+        "universityURL": "https://www.units.it"
     },
     {
         "id": 42,
@@ -375,7 +375,7 @@
         "scholarshipCountry": "Rome, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadlineNot specifiedMerit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Roma TreRome, Italy",
-        "universityUrl": "https://www.uniroma3.it"
+        "universityURL": "https://www.uniroma3.it"
     },
     {
         "id": 43,
@@ -384,7 +384,7 @@
         "scholarshipCountry": "Ferrara, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline31 May 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di FerraraFerrara, Italy",
-        "universityUrl": "https://www.unife.it"
+        "universityURL": "https://www.unife.it"
     },
     {
         "id": 44,
@@ -393,7 +393,7 @@
         "scholarshipCountry": "Urbino, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Jun 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di Urbino Carlo BoUrbino, Italy",
-        "universityUrl": "https://www.uniurb.it"
+        "universityURL": "https://www.uniurb.it"
     },
     {
         "id": 45,
@@ -402,7 +402,7 @@
         "scholarshipCountry": "Sassari, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Sep 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di SassariSassari, Italy",
-        "universityUrl": "https://www.uniss.it"
+        "universityURL": "https://www.uniss.it"
     },
     {
         "id": 46,
@@ -411,7 +411,7 @@
         "scholarshipCountry": "Messina, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant15000 EURDeadline31 Jul 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di MessinaMessina, Italy",
-        "universityUrl": "https://www.unime.it"
+        "universityURL": "https://www.unime.it"
     },
     {
         "id": 47,
@@ -420,7 +420,7 @@
         "scholarshipCountry": "Vercelli, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline01 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi del Piemonte OrientaleVercelli, Italy",
-        "universityUrl": "https://www.uniupo.it"
+        "universityURL": "https://www.uniupo.it"
     },
     {
         "id": 48,
@@ -429,7 +429,7 @@
         "scholarshipCountry": "Macerata, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Apr 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di MacerataMacerata, Italy",
-        "universityUrl": "https://www.unimc.it"
+        "universityURL": "https://www.unimc.it"
     },
     {
         "id": 49,
@@ -438,7 +438,7 @@
         "scholarshipCountry": "Parma, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline31 May 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di ParmaParma, Italy",
-        "universityUrl": "https://www.unipr.it"
+        "universityURL": "https://www.unipr.it"
     },
     {
         "id": 50,
@@ -447,7 +447,7 @@
         "scholarshipCountry": "Verona, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di VeronaVerona, Italy",
-        "universityUrl": "https://www.univr.it"
+        "universityURL": "https://www.univr.it"
     },
     {
         "id": 51,
@@ -456,7 +456,7 @@
         "scholarshipCountry": "Pisa, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant18000 EURDeadline01 Aug 2024PhD ScholarshipsMerit-based Read more about eligibility Scuola Normale Superiore di PisaPisa, Italy",
-        "universityUrl": "https://www.sns.it"
+        "universityURL": "https://www.sns.it"
     },
     {
         "id": 52,
@@ -465,7 +465,7 @@
         "scholarshipCountry": "Pisa, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Scuola Superiore Sant'AnnaPisa, Italy",
-        "universityUrl": "https://www.santannapisa.it"
+        "universityURL": "https://www.santannapisa.it"
     },
     {
         "id": 53,
@@ -474,7 +474,7 @@
         "scholarshipCountry": "Camerino, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadline31 Jul 2024International PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di CamerinoCamerino, Italy",
-        "universityUrl": "https://www.unicam.it"
+        "universityURL": "https://www.unicam.it"
     },
     {
         "id": 54,
@@ -483,7 +483,7 @@
         "scholarshipCountry": "Milan, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline30 Jun 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Milano-BicoccaMilan, Italy",
-        "universityUrl": "https://www.unimib.it"
+        "universityURL": "https://www.unimib.it"
     },
     {
         "id": 55,
@@ -492,7 +492,7 @@
         "scholarshipCountry": "Bergamo, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Aug 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di BergamoBergamo, Italy",
-        "universityUrl": "https://www.unibg.it"
+        "universityURL": "https://www.unibg.it"
     },
     {
         "id": 56,
@@ -501,7 +501,7 @@
         "scholarshipCountry": "Udine, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline31 May 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di UdineUdine, Italy",
-        "universityUrl": "https://www.uniud.it"
+        "universityURL": "https://www.uniud.it"
     },
     {
         "id": 57,
@@ -510,7 +510,7 @@
         "scholarshipCountry": "Cassino, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadlineNot specifiedInternational ScholarshipsMerit-based Read more about eligibility Università degli Studi di Cassino e del Lazio MeridionaleCassino, Italy",
-        "universityUrl": "https://www.unicas.it"
+        "universityURL": "https://www.unicas.it"
     },
     {
         "id": 58,
@@ -519,7 +519,7 @@
         "scholarshipCountry": "Viterbo, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline30 Jun 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi della TusciaViterbo, Italy",
-        "universityUrl": "https://www.unitus.it"
+        "universityURL": "https://www.unitus.it"
     },
     {
         "id": 59,
@@ -528,7 +528,7 @@
         "scholarshipCountry": "Chieti, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di Chieti-PescaraChieti, Italy",
-        "universityUrl": "https://www.unich.it"
+        "universityURL": "https://www.unich.it"
     },
     {
         "id": 60,
@@ -537,7 +537,7 @@
         "scholarshipCountry": "Enna, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di Enna 'Kore'Enna, Italy",
-        "universityUrl": "https://www.unikore.it"
+        "universityURL": "https://www.unikore.it"
     },
     {
         "id": 61,
@@ -546,7 +546,7 @@
         "scholarshipCountry": "Foggia, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Apr 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di FoggiaFoggia, Italy",
-        "universityUrl": "https://www.unifg.it"
+        "universityURL": "https://www.unifg.it"
     },
     {
         "id": 62,
@@ -555,7 +555,7 @@
         "scholarshipCountry": "Lecce, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Aug 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di LecceLecce, Italy",
-        "universityUrl": "https://www.unisalento.it"
+        "universityURL": "https://www.unisalento.it"
     },
     {
         "id": 63,
@@ -564,7 +564,7 @@
         "scholarshipCountry": "Brescia, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline30 Jun 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di BresciaBrescia, Italy",
-        "universityUrl": "https://www.unibs.it"
+        "universityURL": "https://www.unibs.it"
     },
     {
         "id": 64,
@@ -573,7 +573,7 @@
         "scholarshipCountry": "Teramo, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di TeramoTeramo, Italy",
-        "universityUrl": "https://www.unite.it"
+        "universityURL": "https://www.unite.it"
     },
     {
         "id": 65,
@@ -582,7 +582,7 @@
         "scholarshipCountry": "Benevento, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Aug 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi del SannioBenevento, Italy",
-        "universityUrl": "https://www.unisannio.it"
+        "universityURL": "https://www.unisannio.it"
     },
     {
         "id": 66,
@@ -591,7 +591,7 @@
         "scholarshipCountry": "Cassino, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadlineNot specifiedInternational PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di CassinoCassino, Italy",
-        "universityUrl": "https://www.unicas.it"
+        "universityURL": "https://www.unicas.it"
     },
     {
         "id": 67,
@@ -600,7 +600,7 @@
         "scholarshipCountry": "Rome, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline31 Jul 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Roma Tor VergataRome, Italy",
-        "universityUrl": "https://www.uniroma2.it"
+        "universityURL": "https://www.uniroma2.it"
     },
     {
         "id": 68,
@@ -609,7 +609,7 @@
         "scholarshipCountry": "Verona, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di VeronaVerona, Italy",
-        "universityUrl": "https://www.univr.it"
+        "universityURL": "https://www.univr.it"
     },
     {
         "id": 69,
@@ -618,7 +618,7 @@
         "scholarshipCountry": "Bari, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Jun 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di BariBari, Italy",
-        "universityUrl": "https://www.uniba.it"
+        "universityURL": "https://www.uniba.it"
     },
     {
         "id": 70,
@@ -627,7 +627,7 @@
         "scholarshipCountry": "Catania, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Aug 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di CataniaCatania, Italy",
-        "universityUrl": "https://www.unict.it"
+        "universityURL": "https://www.unict.it"
     },
     {
         "id": 71,
@@ -636,7 +636,7 @@
         "scholarshipCountry": "Modena, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant13000 EURDeadline01 Jul 2024International PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di ModenaModena, Italy",
-        "universityUrl": "https://www.unimore.it"
+        "universityURL": "https://www.unimore.it"
     },
     {
         "id": 72,
@@ -645,7 +645,7 @@
         "scholarshipCountry": "Salerno, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadline30 Jun 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di SalernoSalerno, Italy",
-        "universityUrl": "https://www.unisa.it"
+        "universityURL": "https://www.unisa.it"
     },
     {
         "id": 73,
@@ -654,7 +654,7 @@
         "scholarshipCountry": "Trieste, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di TriesteTrieste, Italy",
-        "universityUrl": "https://www.units.it"
+        "universityURL": "https://www.units.it"
     },
     {
         "id": 74,
@@ -663,7 +663,7 @@
         "scholarshipCountry": "Rome, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadlineNot specifiedMerit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Roma TreRome, Italy",
-        "universityUrl": "https://www.uniroma3.it"
+        "universityURL": "https://www.uniroma3.it"
     },
     {
         "id": 75,
@@ -672,7 +672,7 @@
         "scholarshipCountry": "Ferrara, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline31 May 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di FerraraFerrara, Italy",
-        "universityUrl": "https://www.unife.it"
+        "universityURL": "https://www.unife.it"
     },
     {
         "id": 76,
@@ -681,7 +681,7 @@
         "scholarshipCountry": "Urbino, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Jun 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di Urbino Carlo BoUrbino, Italy",
-        "universityUrl": "https://www.uniurb.it"
+        "universityURL": "https://www.uniurb.it"
     },
     {
         "id": 77,
@@ -690,7 +690,7 @@
         "scholarshipCountry": "Sassari, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Sep 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di SassariSassari, Italy",
-        "universityUrl": "https://www.uniss.it"
+        "universityURL": "https://www.uniss.it"
     },
     {
         "id": 78,
@@ -699,7 +699,7 @@
         "scholarshipCountry": "Messina, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant15000 EURDeadline31 Jul 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di MessinaMessina, Italy",
-        "universityUrl": "https://www.unime.it"
+        "universityURL": "https://www.unime.it"
     },
     {
         "id": 79,
@@ -708,7 +708,7 @@
         "scholarshipCountry": "Vercelli, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline01 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi del Piemonte OrientaleVercelli, Italy",
-        "universityUrl": "https://www.uniupo.it"
+        "universityURL": "https://www.uniupo.it"
     },
     {
         "id": 80,
@@ -717,7 +717,7 @@
         "scholarshipCountry": "Macerata, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Apr 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di MacerataMacerata, Italy",
-        "universityUrl": "https://www.unimc.it"
+        "universityURL": "https://www.unimc.it"
     },
     {
         "id": 81,
@@ -726,7 +726,7 @@
         "scholarshipCountry": "Parma, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline31 May 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di ParmaParma, Italy",
-        "universityUrl": "https://www.unipr.it"
+        "universityURL": "https://www.unipr.it"
     },
     {
         "id": 82,
@@ -735,7 +735,7 @@
         "scholarshipCountry": "Verona, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di VeronaVerona, Italy",
-        "universityUrl": "https://www.univr.it"
+        "universityURL": "https://www.univr.it"
     },
     {
         "id": 83,
@@ -744,7 +744,7 @@
         "scholarshipCountry": "Pisa, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant18000 EURDeadline01 Aug 2024PhD ScholarshipsMerit-based Read more about eligibility Scuola Normale Superiore di PisaPisa, Italy",
-        "universityUrl": "https://www.sns.it"
+        "universityURL": "https://www.sns.it"
     },
     {
         "id": 84,
@@ -753,7 +753,7 @@
         "scholarshipCountry": "Pisa, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Scuola Superiore Sant'AnnaPisa, Italy",
-        "universityUrl": "https://www.santannapisa.it"
+        "universityURL": "https://www.santannapisa.it"
     },
     {
         "id": 85,
@@ -762,7 +762,7 @@
         "scholarshipCountry": "Camerino, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadline31 Jul 2024International PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di CamerinoCamerino, Italy",
-        "universityUrl": "https://www.unicam.it"
+        "universityURL": "https://www.unicam.it"
     },
     {
         "id": 86,
@@ -771,7 +771,7 @@
         "scholarshipCountry": "Milan, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline30 Jun 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Milano-BicoccaMilan, Italy",
-        "universityUrl": "https://www.unimib.it"
+        "universityURL": "https://www.unimib.it"
     },
     {
         "id": 87,
@@ -780,7 +780,7 @@
         "scholarshipCountry": "Bergamo, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Aug 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di BergamoBergamo, Italy",
-        "universityUrl": "https://www.unibg.it"
+        "universityURL": "https://www.unibg.it"
     },
     {
         "id": 88,
@@ -789,7 +789,7 @@
         "scholarshipCountry": "Udine, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline31 May 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di UdineUdine, Italy",
-        "universityUrl": "https://www.uniud.it"
+        "universityURL": "https://www.uniud.it"
     },
     {
         "id": 89,
@@ -798,7 +798,7 @@
         "scholarshipCountry": "Cassino, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadlineNot specifiedInternational ScholarshipsMerit-based Read more about eligibility Università degli Studi di Cassino e del Lazio MeridionaleCassino, Italy",
-        "universityUrl": "https://www.unicas.it"
+        "universityURL": "https://www.unicas.it"
     },
     {
         "id": 90,
@@ -807,7 +807,7 @@
         "scholarshipCountry": "Viterbo, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline30 Jun 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi della TusciaViterbo, Italy",
-        "universityUrl": "https://www.unitus.it"
+        "universityURL": "https://www.unitus.it"
     },
     {
         "id": 91,
@@ -816,7 +816,7 @@
         "scholarshipCountry": "Chieti, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di Chieti-PescaraChieti, Italy",
-        "universityUrl": "https://www.unich.it"
+        "universityURL": "https://www.unich.it"
     },
     {
         "id": 92,
@@ -825,7 +825,7 @@
         "scholarshipCountry": "Enna, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di Enna 'Kore'Enna, Italy",
-        "universityUrl": "https://www.unikore.it"
+        "universityURL": "https://www.unikore.it"
     },
     {
         "id": 93,
@@ -834,7 +834,7 @@
         "scholarshipCountry": "Foggia, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Apr 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di FoggiaFoggia, Italy",
-        "universityUrl": "https://www.unifg.it"
+        "universityURL": "https://www.unifg.it"
     },
     {
         "id": 94,
@@ -843,7 +843,7 @@
         "scholarshipCountry": "Lecce, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Aug 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di LecceLecce, Italy",
-        "universityUrl": "https://www.unisalento.it"
+        "universityURL": "https://www.unisalento.it"
     },
     {
         "id": 95,
@@ -852,7 +852,7 @@
         "scholarshipCountry": "Brescia, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline30 Jun 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di BresciaBrescia, Italy",
-        "universityUrl": "https://www.unibs.it"
+        "universityURL": "https://www.unibs.it"
     },
     {
         "id": 96,
@@ -861,7 +861,7 @@
         "scholarshipCountry": "Teramo, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di TeramoTeramo, Italy",
-        "universityUrl": "https://www.unite.it"
+        "universityURL": "https://www.unite.it"
     },
     {
         "id": 97,
@@ -870,7 +870,7 @@
         "scholarshipCountry": "Benevento, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Aug 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi del SannioBenevento, Italy",
-        "universityUrl": "https://www.unisannio.it"
+        "universityURL": "https://www.unisannio.it"
     },
     {
         "id": 98,
@@ -879,7 +879,7 @@
         "scholarshipCountry": "Cassino, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadlineNot specifiedInternational PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di CassinoCassino, Italy",
-        "universityUrl": "https://www.unicas.it"
+        "universityURL": "https://www.unicas.it"
     },
     {
         "id": 99,
@@ -888,7 +888,7 @@
         "scholarshipCountry": "Rome, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline31 Jul 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Roma Tor VergataRome, Italy",
-        "universityUrl": "https://www.uniroma2.it"
+        "universityURL": "https://www.uniroma2.it"
     },
     {
         "id": 100,
@@ -897,7 +897,7 @@
         "scholarshipCountry": "Verona, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di VeronaVerona, Italy",
-        "universityUrl": "https://www.univr.it"
+        "universityURL": "https://www.univr.it"
     },
     {
         "id": 101,
@@ -906,7 +906,7 @@
         "scholarshipCountry": "Bari, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Jun 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di BariBari, Italy",
-        "universityUrl": "https://www.uniba.it"
+        "universityURL": "https://www.uniba.it"
     },
     {
         "id": 102,
@@ -915,7 +915,7 @@
         "scholarshipCountry": "Catania, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Aug 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di CataniaCatania, Italy",
-        "universityUrl": "https://www.unict.it"
+        "universityURL": "https://www.unict.it"
     },
     {
         "id": 103,
@@ -924,7 +924,7 @@
         "scholarshipCountry": "Modena, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant13000 EURDeadline01 Jul 2024International PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di ModenaModena, Italy",
-        "universityUrl": "https://www.unimore.it"
+        "universityURL": "https://www.unimore.it"
     },
     {
         "id": 104,
@@ -933,7 +933,7 @@
         "scholarshipCountry": "Salerno, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadline30 Jun 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di SalernoSalerno, Italy",
-        "universityUrl": "https://www.unisa.it"
+        "universityURL": "https://www.unisa.it"
     },
     {
         "id": 105,
@@ -942,7 +942,7 @@
         "scholarshipCountry": "Trieste, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di TriesteTrieste, Italy",
-        "universityUrl": "https://www.units.it"
+        "universityURL": "https://www.units.it"
     },
     {
         "id": 106,
@@ -951,7 +951,7 @@
         "scholarshipCountry": "Rome, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadlineNot specifiedMerit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Roma TreRome, Italy",
-        "universityUrl": "https://www.uniroma3.it"
+        "universityURL": "https://www.uniroma3.it"
     },
     {
         "id": 107,
@@ -960,7 +960,7 @@
         "scholarshipCountry": "Ferrara, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline31 May 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di FerraraFerrara, Italy",
-        "universityUrl": "https://www.unife.it"
+        "universityURL": "https://www.unife.it"
     },
     {
         "id": 108,
@@ -969,7 +969,7 @@
         "scholarshipCountry": "Urbino, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Jun 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di Urbino Carlo BoUrbino, Italy",
-        "universityUrl": "https://www.uniurb.it"
+        "universityURL": "https://www.uniurb.it"
     },
     {
         "id": 109,
@@ -978,7 +978,7 @@
         "scholarshipCountry": "Sassari, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Sep 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di SassariSassari, Italy",
-        "universityUrl": "https://www.uniss.it"
+        "universityURL": "https://www.uniss.it"
     },
     {
         "id": 110,
@@ -987,7 +987,7 @@
         "scholarshipCountry": "Messina, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant15000 EURDeadline31 Jul 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di MessinaMessina, Italy",
-        "universityUrl": "https://www.unime.it"
+        "universityURL": "https://www.unime.it"
     },
     {
         "id": 111,
@@ -996,7 +996,7 @@
         "scholarshipCountry": "Vercelli, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline01 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi del Piemonte OrientaleVercelli, Italy",
-        "universityUrl": "https://www.uniupo.it"
+        "universityURL": "https://www.uniupo.it"
     },
     {
         "id": 112,
@@ -1005,7 +1005,7 @@
         "scholarshipCountry": "Macerata, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Apr 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di MacerataMacerata, Italy",
-        "universityUrl": "https://www.unimc.it"
+        "universityURL": "https://www.unimc.it"
     },
     {
         "id": 113,
@@ -1014,7 +1014,7 @@
         "scholarshipCountry": "Parma, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline31 May 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di ParmaParma, Italy",
-        "universityUrl": "https://www.unipr.it"
+        "universityURL": "https://www.unipr.it"
     },
     {
         "id": 114,
@@ -1023,7 +1023,7 @@
         "scholarshipCountry": "Verona, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di VeronaVerona, Italy",
-        "universityUrl": "https://www.univr.it"
+        "universityURL": "https://www.univr.it"
     },
     {
         "id": 115,
@@ -1032,7 +1032,7 @@
         "scholarshipCountry": "Pisa, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant18000 EURDeadline01 Aug 2024PhD ScholarshipsMerit-based Read more about eligibility Scuola Normale Superiore di PisaPisa, Italy",
-        "universityUrl": "https://www.sns.it"
+        "universityURL": "https://www.sns.it"
     },
     {
         "id": 116,
@@ -1041,7 +1041,7 @@
         "scholarshipCountry": "Pisa, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Scuola Superiore Sant'AnnaPisa, Italy",
-        "universityUrl": "https://www.santannapisa.it"
+        "universityURL": "https://www.santannapisa.it"
     },
     {
         "id": 117,
@@ -1050,7 +1050,7 @@
         "scholarshipCountry": "Camerino, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadline31 Jul 2024International PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di CamerinoCamerino, Italy",
-        "universityUrl": "https://www.unicam.it"
+        "universityURL": "https://www.unicam.it"
     },
     {
         "id": 118,
@@ -1059,7 +1059,7 @@
         "scholarshipCountry": "Milan, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline30 Jun 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Milano-BicoccaMilan, Italy",
-        "universityUrl": "https://www.unimib.it"
+        "universityURL": "https://www.unimib.it"
     },
     {
         "id": 119,
@@ -1068,7 +1068,7 @@
         "scholarshipCountry": "Bergamo, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Aug 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di BergamoBergamo, Italy",
-        "universityUrl": "https://www.unibg.it"
+        "universityURL": "https://www.unibg.it"
     },
     {
         "id": 120,
@@ -1077,7 +1077,7 @@
         "scholarshipCountry": "Udine, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline31 May 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di UdineUdine, Italy",
-        "universityUrl": "https://www.uniud.it"
+        "universityURL": "https://www.uniud.it"
     },
     {
         "id": 121,
@@ -1086,7 +1086,7 @@
         "scholarshipCountry": "Cassino, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadlineNot specifiedInternational ScholarshipsMerit-based Read more about eligibility Università degli Studi di Cassino e del Lazio MeridionaleCassino, Italy",
-        "universityUrl": "https://www.unicas.it"
+        "universityURL": "https://www.unicas.it"
     },
     {
         "id": 122,
@@ -1095,7 +1095,7 @@
         "scholarshipCountry": "Viterbo, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline30 Jun 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi della TusciaViterbo, Italy",
-        "universityUrl": "https://www.unitus.it"
+        "universityURL": "https://www.unitus.it"
     },
     {
         "id": 123,
@@ -1104,7 +1104,7 @@
         "scholarshipCountry": "Chieti, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di Chieti-PescaraChieti, Italy",
-        "universityUrl": "https://www.unich.it"
+        "universityURL": "https://www.unich.it"
     },
     {
         "id": 124,
@@ -1113,7 +1113,7 @@
         "scholarshipCountry": "Enna, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di Enna 'Kore'Enna, Italy",
-        "universityUrl": "https://www.unikore.it"
+        "universityURL": "https://www.unikore.it"
     },
     {
         "id": 125,
@@ -1122,7 +1122,7 @@
         "scholarshipCountry": "Foggia, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Apr 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di FoggiaFoggia, Italy",
-        "universityUrl": "https://www.unifg.it"
+        "universityURL": "https://www.unifg.it"
     },
     {
         "id": 126,
@@ -1131,7 +1131,7 @@
         "scholarshipCountry": "Lecce, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Aug 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di LecceLecce, Italy",
-        "universityUrl": "https://www.unisalento.it"
+        "universityURL": "https://www.unisalento.it"
     },
     {
         "id": 127,
@@ -1140,7 +1140,7 @@
         "scholarshipCountry": "Brescia, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline30 Jun 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di BresciaBrescia, Italy",
-        "universityUrl": "https://www.unibs.it"
+        "universityURL": "https://www.unibs.it"
     },
     {
         "id": 128,
@@ -1149,7 +1149,7 @@
         "scholarshipCountry": "Teramo, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di TeramoTeramo, Italy",
-        "universityUrl": "https://www.unite.it"
+        "universityURL": "https://www.unite.it"
     },
     {
         "id": 129,
@@ -1158,7 +1158,7 @@
         "scholarshipCountry": "Benevento, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Aug 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi del SannioBenevento, Italy",
-        "universityUrl": "https://www.unisannio.it"
+        "universityURL": "https://www.unisannio.it"
     },
     {
         "id": 130,
@@ -1167,7 +1167,7 @@
         "scholarshipCountry": "Cassino, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadlineNot specifiedInternational PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di CassinoCassino, Italy",
-        "universityUrl": "https://www.unicas.it"
+        "universityURL": "https://www.unicas.it"
     },
     {
         "id": 131,
@@ -1176,7 +1176,7 @@
         "scholarshipCountry": "Rome, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline31 Jul 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Roma Tor VergataRome, Italy",
-        "universityUrl": "https://www.uniroma2.it"
+        "universityURL": "https://www.uniroma2.it"
     },
     {
         "id": 132,
@@ -1185,7 +1185,7 @@
         "scholarshipCountry": "Verona, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di VeronaVerona, Italy",
-        "universityUrl": "https://www.univr.it"
+        "universityURL": "https://www.univr.it"
     },
     {
         "id": 133,
@@ -1194,7 +1194,7 @@
         "scholarshipCountry": "Pisa, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant18000 EURDeadline01 Aug 2024PhD ScholarshipsMerit-based Read more about eligibility Scuola Normale Superiore di PisaPisa, Italy",
-        "universityUrl": "https://www.sns.it"
+        "universityURL": "https://www.sns.it"
     },
     {
         "id": 134,
@@ -1203,7 +1203,7 @@
         "scholarshipCountry": "Pisa, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Scuola Superiore Sant'AnnaPisa, Italy",
-        "universityUrl": "https://www.santannapisa.it"
+        "universityURL": "https://www.santannapisa.it"
     },
     {
         "id": 135,
@@ -1212,7 +1212,7 @@
         "scholarshipCountry": "Camerino, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadline31 Jul 2024International PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di CamerinoCamerino, Italy",
-        "universityUrl": "https://www.unicam.it"
+        "universityURL": "https://www.unicam.it"
     },
     {
         "id": 136,
@@ -1221,7 +1221,7 @@
         "scholarshipCountry": "Milan, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline30 Jun 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Milano-BicoccaMilan, Italy",
-        "universityUrl": "https://www.unimib.it"
+        "universityURL": "https://www.unimib.it"
     },
     {
         "id": 137,
@@ -1230,7 +1230,7 @@
         "scholarshipCountry": "Bergamo, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Aug 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di BergamoBergamo, Italy",
-        "universityUrl": "https://www.unibg.it"
+        "universityURL": "https://www.unibg.it"
     },
     {
         "id": 138,
@@ -1239,7 +1239,7 @@
         "scholarshipCountry": "Udine, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline31 May 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di UdineUdine, Italy",
-        "universityUrl": "https://www.uniud.it"
+        "universityURL": "https://www.uniud.it"
     },
     {
         "id": 139,
@@ -1248,7 +1248,7 @@
         "scholarshipCountry": "Cassino, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadlineNot specifiedInternational ScholarshipsMerit-based Read more about eligibility Università degli Studi di Cassino e del Lazio MeridionaleCassino, Italy",
-        "universityUrl": "https://www.unicas.it"
+        "universityURL": "https://www.unicas.it"
     },
     {
         "id": 140,
@@ -1257,7 +1257,7 @@
         "scholarshipCountry": "Viterbo, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline30 Jun 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi della TusciaViterbo, Italy",
-        "universityUrl": "https://www.unitus.it"
+        "universityURL": "https://www.unitus.it"
     },
     {
         "id": 141,
@@ -1266,7 +1266,7 @@
         "scholarshipCountry": "Chieti, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di Chieti-PescaraChieti, Italy",
-        "universityUrl": "https://www.unich.it"
+        "universityURL": "https://www.unich.it"
     },
     {
         "id": 142,
@@ -1275,7 +1275,7 @@
         "scholarshipCountry": "Enna, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline15 Sep 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi di Enna 'Kore'Enna, Italy",
-        "universityUrl": "https://www.unikore.it"
+        "universityURL": "https://www.unikore.it"
     },
     {
         "id": 143,
@@ -1284,7 +1284,7 @@
         "scholarshipCountry": "Foggia, Italy",
         "scholarshipLevel": "International Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline30 Apr 2024International ScholarshipsMerit-based Read more about eligibility Università degli Studi di FoggiaFoggia, Italy",
-        "universityUrl": "https://www.unifg.it"
+        "universityURL": "https://www.unifg.it"
     },
     {
         "id": 144,
@@ -1293,7 +1293,7 @@
         "scholarshipCountry": "Lecce, Italy",
         "scholarshipLevel": "PhD Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Aug 2024PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di LecceLecce, Italy",
-        "universityUrl": "https://www.unisalento.it"
+        "universityURL": "https://www.unisalento.it"
     },
     {
         "id": 145,
@@ -1302,7 +1302,7 @@
         "scholarshipCountry": "Brescia, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant8000 EURDeadline30 Jun 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di BresciaBrescia, Italy",
-        "universityUrl": "https://www.unibs.it"
+        "universityURL": "https://www.unibs.it"
     },
     {
         "id": 146,
@@ -1311,7 +1311,7 @@
         "scholarshipCountry": "Teramo, Italy",
         "scholarshipLevel": "International Students Scholarships",
         "details": "Provided by universityGrantVarious benefitsDeadline01 Jul 2024International Students ScholarshipsMerit-based Read more about eligibility Università degli Studi di TeramoTeramo, Italy",
-        "universityUrl": "https://www.unite.it"
+        "universityURL": "https://www.unite.it"
     },
     {
         "id": 147,
@@ -1320,7 +1320,7 @@
         "scholarshipCountry": "Benevento, Italy",
         "scholarshipLevel": "Masters Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline15 Aug 2024Masters ScholarshipsMerit-based Read more about eligibility Università degli Studi del SannioBenevento, Italy",
-        "universityUrl": "https://www.unisannio.it"
+        "universityURL": "https://www.unisannio.it"
     },
     {
         "id": 148,
@@ -1329,7 +1329,7 @@
         "scholarshipCountry": "Cassino, Italy",
         "scholarshipLevel": "International PhD Scholarships",
         "details": "Provided by universityGrant12000 EURDeadlineNot specifiedInternational PhD ScholarshipsMerit-based Read more about eligibility Università degli Studi di CassinoCassino, Italy",
-        "universityUrl": "https://www.unicas.it"
+        "universityURL": "https://www.unicas.it"
     },
     {
         "id": 149,
@@ -1338,6 +1338,6 @@
         "scholarshipCountry": "Rome, Italy",
         "scholarshipLevel": "Merit-based Scholarships",
         "details": "Provided by universityGrant10000 EURDeadline31 Jul 2024Merit-based ScholarshipsMerit-based Read more about eligibility Università degli Studi di Roma Tor VergataRome, Italy",
-        "universityUrl": "https://www.uniroma2.it"
+        "universityURL": "https://www.uniroma2.it"
     }
 ]
